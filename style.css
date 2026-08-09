@@ -193,7 +193,7 @@ section > .wrap > p.sub { color: var(--muted); margin: 0 0 26px; max-width: 62ch
 
 .app-icon.doc { background: linear-gradient(135deg, #0052cc, #3d8bff); }
 .app-icon.pp { background: linear-gradient(135deg, #0f9d76, #46c9a2); }
-.app-icon.pssa { background: linear-gradient(135deg, #7a4dd6, #a983f5); }
+.app-icon.buddy { background: linear-gradient(135deg, #7a4dd6, #a983f5); }
 
 .app h3 { margin: 0; font-size: 19px; font-weight: 800; letter-spacing: -0.01em; }
 
